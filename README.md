@@ -1,4 +1,4 @@
-# SimpleTaskManager# Simple Task Manager
+# Simple Task Manager
 
 A simple task management application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Redux for state management. This project demonstrates how to create a full-stack application with a RESTful API backend and a modern frontend UI.
 
